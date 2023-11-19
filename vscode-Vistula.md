@@ -20,3 +20,15 @@ What health issues can they have?
 That's why it is always important to observe your guinea pigs and weigh them regularly! :)
 
 GUINEA-TEAM
+
+## Chapter 3. How to highlight guinea pigs in markdown?
+
+Guinea pigs can be **bold**...
+
+... or a bit *wonky*...
+
+they can be also...
+
+1. tens
+2. milions
+3. or just a lot of them!
