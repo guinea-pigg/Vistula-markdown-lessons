@@ -18,3 +18,5 @@ What health issues can they have?
 * Conjungtivitis
 
 That's why it is always important to observe your guinea pigs and weigh them regularly! :)
+
+GUINEA-TEAM
