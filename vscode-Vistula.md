@@ -34,3 +34,5 @@ they can be also...
 3. or just a lot of them!
 
    **HELLO**
+
+![Here we can't see any guinea pigs.](picture.jpg)
