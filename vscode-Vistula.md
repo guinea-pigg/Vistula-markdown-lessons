@@ -36,3 +36,18 @@ they can be also...
    **HELLO**
 
 ![Here we can't see any guinea pigs.](picture.jpg)
+
+## Chapter 4. Pigs in a table
+
+|Guinea pig breed|Type of fur|
+|---|---|
+|Peruvian| long and silky, messy|
+|Alpaca| short and thick|
+|American| short and silky|
+|Sheltie| short on the head, long on the body
+
+- [Guinea pigs](#guinea-pigs)
+  - [Chapter 1. Why guinea pigs are awesome](#chapter-1-why-guinea-pigs-are-awesome)
+  - [Chapter 2. Why having a guinea pig is not an easy task](#chapter-2-why-having-a-guinea-pig-is-not-an-easy-task)
+  - [Chapter 3. How to highlight guinea pigs in markdown?](#chapter-3-how-to-highlight-guinea-pigs-in-markdown)
+  - [Chapter 4. Pigs in a table](#chapter-4-pigs-in-a-table)
