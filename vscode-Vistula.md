@@ -39,12 +39,12 @@ they can be also...
 
 ## Chapter 4. Pigs in a table
 
-|Guinea pig breed|Type of fur|
-|---|---|
-|Peruvian| long and silky, messy|
-|Alpaca| short and thick|
-|American| short and silky|
-|Sheltie| short on the head, long on the body
+| Guinea pig breed | Type of fur                         |
+| ---------------- | ----------------------------------- |
+| Peruvian         | long and silky, messy               |
+| Alpaca           | short and thick                     |
+| American         | short and silky                     |
+| Sheltie          | short on the head, long on the body |
 
 - [Guinea pigs](#guinea-pigs)
   - [Chapter 1. Why guinea pigs are awesome](#chapter-1-why-guinea-pigs-are-awesome)
