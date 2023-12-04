@@ -42,7 +42,7 @@ they can be also...
 | Guinea pig breed | Type of fur                         |
 | ---------------- | ----------------------------------- |
 | Peruvian         | long and silky, messy               |
-| alpaca           | short and thick                     |
+| Alpaca           | short and thick                     |
 | American         | short and silky                     |
 | Sheltie          | short on the head, long on the body |
 
