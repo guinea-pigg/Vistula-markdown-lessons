@@ -1,31 +1,50 @@
 # Guinea pigs
 
-## Chapter 1. Why guinea pigs are awesome
+## Table of contents
 
-Guinea pigs have positive energy and are beautiful.
+- [Guinea pigs](#guinea-pigs)
+  - [Table of contents](#table-of-contents)
+  - [1. Why guinea pigs and markdown are awesome?](#1-why-guinea-pigs-and-markdown-are-awesome)
+    - [1.1. How can I improve my markdown skills?](#11-how-can-i-improve-my-markdown-skills)
+  - [2. Why having a guinea pig is not an easy task. A list](#2-why-having-a-guinea-pig-is-not-an-easy-task-a-list)
+  - [3. How to format guinea pigs in markdown?](#3-how-to-format-guinea-pigs-in-markdown)
+  - [4. A photo without guinea pigs](#4-a-photo-without-guinea-pigs)
+  - [5. Pigs in a table](#5-pigs-in-a-table)
+  
+## 1. Why guinea pigs and markdown are awesome?
 
-## Chapter 2. Why having a guinea pig is not an easy task
+Guinea pigs have positive energy and are beautiful. That's why we're writing this document about them. Also, we're learning the beautiful art of markdown.
+
+### 1.1. How can I improve my markdown skills?
+
+You can do it with pleasure by writing about guinea pigs. Let's go!
+
+## 2. Why having a guinea pig is not an easy task. A list
 
 Guinea pigs are very fragile animals and it's not always easy to notice their health problems from the very beginning.
 
 What health issues can they have?
 
-* Problems with teeth
-* Problems with fur and skin
-* Digestive issues
-* Parasites
-* Flu or runny nose
-* Conjungtivitis
+- Problems with teeth
+- Problems with fur and skin
+- Digestive issues
+- Parasites
+- Flu or runny nose
+- Conjungtivitis
 
 That's why it is always important to observe your guinea pigs and weigh them regularly! :)
 
-GUINEA-TEAM
+What your guinea pig should always have? 
 
-## Chapter 3. How to highlight guinea pigs in markdown?
+1. Water and hay
+2. Vegetables
+3. Vitamin C
+
+## 3. How to format guinea pigs in markdown?
 
 Guinea pigs can be **bold**...
 
-... or a bit *wonky*...
+... or a bit *italic*...
 
 they can be also...
 
@@ -33,11 +52,15 @@ they can be also...
 2. milions
 3. or just a lot of them!
 
-   **HELLO**
+**Bold pigs are the best!**
+
+## 4. A photo without guinea pigs
+
+Maybe they hid somewhere?
 
 ![Here we can't see any guinea pigs.](picture.jpg)
 
-## Chapter 4. Pigs in a table
+## 5. Pigs in a table
 
 | Guinea pig breed | Type of fur                         |
 | ---------------- | ----------------------------------- |
@@ -46,8 +69,5 @@ they can be also...
 | American         | short and silky                     |
 | Sheltie          | short on the head, long on the body |
 
-- [Guinea pigs](#guinea-pigs)
-  - [Chapter 1. Why guinea pigs are awesome](#chapter-1-why-guinea-pigs-are-awesome)
-  - [Chapter 2. Why having a guinea pig is not an easy task](#chapter-2-why-having-a-guinea-pig-is-not-an-easy-task)
-  - [Chapter 3. How to highlight guinea pigs in markdown?](#chapter-3-how-to-highlight-guinea-pigs-in-markdown)
-  - [Chapter 4. Pigs in a table](#chapter-4-pigs-in-a-table)
+Want to read more about guinea pigs? [Wikipedia will give you lots of cool info!](https://pl.wikipedia.org/wiki/Kawia_domowa)
+
