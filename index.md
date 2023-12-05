@@ -2,6 +2,7 @@
 
 ## Table of contents
 
+
 - [Guinea pigs](#guinea-pigs)
   - [Table of contents](#table-of-contents)
   - [1. Why guinea pigs and markdown are awesome?](#1-why-guinea-pigs-and-markdown-are-awesome)
@@ -14,6 +15,10 @@
 ## 1. Why guinea pigs and markdown are awesome?
 
 Guinea pigs have positive energy and are beautiful. That's why we're writing this document about them. Also, we're learning the beautiful art of markdown.
+
+Guinea pigs often say:
+> _Pigs are great. Humans too, when they have tasty snacks to give us._
+
 
 ### 1.1. How can I improve my markdown skills?
 
@@ -62,12 +67,19 @@ Maybe they hid somewhere?
 
 ## 5. Pigs in a table
 
-| Guinea pig breed | Type of fur                         |
-| ---------------- | ----------------------------------- |
-| Peruvian         | long and silky, messy               |
-| Alpaca           | short and thick                     |
-| American         | short and silky                     |
-| Sheltie          | short on the head, long on the body |
+| Guinea pig breed | Type of fur                         | Lifespan         |
+| :---------------- | :-----------------------------------: | ----------------: |
+| Peruvian         | long and silky, messy               | 4-7 years        |
+| Alpaca           | short and thick                     | 4-7 years        |
+| American         | short and silky                     | 4-7 years        |
+| Sheltie          | short on the head, long on the body | 4-7 years        |
+
+
+What's interesting, guinea pigs don't always function according to the math laws we normally know. A simple example is when they reproduce: 
+
+\[1 + 1 = 3\]
+
+Saying that, it's worth remembering that two guinea pigs in one cage can result in more than just two pigs.
 
 Want to read more about guinea pigs? [Wikipedia will give you lots of cool info!](https://pl.wikipedia.org/wiki/Kawia_domowa)
 
