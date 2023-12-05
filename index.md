@@ -83,3 +83,5 @@ Saying that, it's worth remembering that two guinea pigs in one cage can result 
 
 Want to read more about guinea pigs? [Wikipedia will give you lots of cool info!](https://pl.wikipedia.org/wiki/Kawia_domowa)
 
+
+> Contact with guinea pigs can be addictive.
