@@ -1,16 +1,16 @@
-# Guinea pigs
+# Guinea pigs <!-- omit in toc -->
 
 ## Table of contents
 
 
-- [Guinea pigs](#guinea-pigs)
-  - [Table of contents](#table-of-contents)
-  - [1. Why guinea pigs and markdown are awesome?](#1-why-guinea-pigs-and-markdown-are-awesome)
-    - [1.1. How can I improve my markdown skills?](#11-how-can-i-improve-my-markdown-skills)
-  - [2. Why having a guinea pig is not an easy task. A list](#2-why-having-a-guinea-pig-is-not-an-easy-task-a-list)
-  - [3. How to format guinea pigs in markdown?](#3-how-to-format-guinea-pigs-in-markdown)
-  - [4. A photo without guinea pigs](#4-a-photo-without-guinea-pigs)
-  - [5. Pigs in a table](#5-pigs-in-a-table)
+
+- [Table of contents](#table-of-contents)
+- [1. Why guinea pigs and markdown are awesome?](#1-why-guinea-pigs-and-markdown-are-awesome)
+  - [1.1. How can I improve my markdown skills?](#11-how-can-i-improve-my-markdown-skills)
+- [2. Why having a guinea pig is not an easy task. A list](#2-why-having-a-guinea-pig-is-not-an-easy-task-a-list)
+- [3. How to format guinea pigs in markdown?](#3-how-to-format-guinea-pigs-in-markdown)
+- [4. A photo without guinea pigs](#4-a-photo-without-guinea-pigs)
+- [5. Pigs in a table](#5-pigs-in-a-table)
   
 ## 1. Why guinea pigs and markdown are awesome?
 
