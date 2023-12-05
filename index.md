@@ -2,8 +2,6 @@
 
 ## Table of contents
 
-
-
 - [Table of contents](#table-of-contents)
 - [1. Why guinea pigs and markdown are awesome?](#1-why-guinea-pigs-and-markdown-are-awesome)
   - [1.1. How can I improve my markdown skills?](#11-how-can-i-improve-my-markdown-skills)
@@ -18,7 +16,6 @@ Guinea pigs have positive energy and are beautiful. That's why we're writing thi
 
 Guinea pigs often say:
 > _Pigs are great. Humans too, when they have tasty snacks to give us._
-
 
 ### 1.1. How can I improve my markdown skills?
 
@@ -39,7 +36,7 @@ What health issues can they have?
 
 That's why it is always important to observe your guinea pigs and weigh them regularly! :)
 
-What your guinea pig should always have? 
+What your guinea pig should always have?
 
 1. Water and hay
 2. Vegetables
@@ -49,7 +46,7 @@ What your guinea pig should always have?
 
 Guinea pigs can be **bold**...
 
-... or a bit *italic*...
+... or a bit _italic_...
 
 they can be also...
 
@@ -74,8 +71,7 @@ Maybe they hid somewhere?
 | American         | short and silky                     | 4-7 years        |
 | Sheltie          | short on the head, long on the body | 4-7 years        |
 
-
-What's interesting, guinea pigs don't always function according to the math laws we normally know. A simple example is when they reproduce: 
+What's interesting, guinea pigs don't always function according to the math laws we normally know. A simple example is when they reproduce:
 
 \[1 + 1 = 3\]
 
@@ -83,5 +79,4 @@ Saying that, it's worth remembering that two guinea pigs in one cage can result 
 
 Want to read more about guinea pigs? [Wikipedia will give you lots of cool info!](https://pl.wikipedia.org/wiki/Kawia_domowa)
 
-
-> Contact with guinea pigs can be addictive.
+> Contact with guinea pigs can be addictive
