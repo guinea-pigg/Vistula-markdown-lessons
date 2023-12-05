@@ -73,7 +73,7 @@ Maybe they hid somewhere?
 
 What's interesting, guinea pigs don't always function according to the math laws we normally know. A simple example is when they reproduce:
 
-\[1 + 1 = 3\]
+`1 + 1 = 3`
 
 Saying that, it's worth remembering that two guinea pigs in one cage can result in more than just two pigs.
 
